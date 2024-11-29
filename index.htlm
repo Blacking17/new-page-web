@@ -8,3 +8,8 @@
     <p>Ceci est ma première page hébergée sur GitHub Pages.</p>
 </body>
 </html>
+
+<head>
+    <title>Ma première page GitHub</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
